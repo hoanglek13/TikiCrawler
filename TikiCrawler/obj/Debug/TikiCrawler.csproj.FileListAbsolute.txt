@@ -1,0 +1,111 @@
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\TikiCrawler.dll.config
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\TikiCrawler.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\TikiCrawler.pdb
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Antlr3.Runtime.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\EntityFramework.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\EntityFramework.SqlServer.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Newtonsoft.Json.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Owin.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Helpers.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Mvc.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Optimization.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Razor.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.WebPages.Deployment.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.WebPages.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.WebPages.Razor.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\WebGrease.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Helpers.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Mvc.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Optimization.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.Razor.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.WebPages.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.WebPages.Deployment.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\System.Web.WebPages.Razor.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Newtonsoft.Json.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Antlr3.Runtime.pdb
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\EntityFramework.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\EntityFramework.SqlServer.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\obj\Debug\TikiCrawler.csprojResolveAssemblyReference.cache
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\obj\Debug\TikiCrawler.dll
+c:\users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\obj\Debug\TikiCrawler.pdb
+C:\Users\hoang\documents\visual studio 2015\Projects\TikiCrawler\TikiCrawler\bin\HtmlAgilityPack.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\TikiCrawler.dll.config
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\TikiCrawler.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\TikiCrawler.pdb
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Antlr3.Runtime.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\EntityFramework.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\EntityFramework.SqlServer.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Google.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Web.Infrastructure.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Newtonsoft.Json.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Owin.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Helpers.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Mvc.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Optimization.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Razor.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.WebPages.Deployment.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.WebPages.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.WebPages.Razor.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\WebGrease.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Helpers.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Mvc.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Optimization.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.Razor.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.WebPages.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.WebPages.Deployment.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\System.Web.WebPages.Razor.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Newtonsoft.Json.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Antlr3.Runtime.pdb
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\EntityFramework.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\EntityFramework.SqlServer.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Google.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\obj\Debug\TikiCrawler.csprojResolveAssemblyReference.cache
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\obj\Debug\TikiCrawler.dll
+G:\Khoa hoc ve Web\Drawler\TikiCrawler_v1.0-master-f87ff8e4f255f431fcb69ce47097a7dfe095722b\TikiCrawler\obj\Debug\TikiCrawler.pdb

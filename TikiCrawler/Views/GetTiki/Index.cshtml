@@ -1,0 +1,24 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Get Tiki.vn";
+}
+
+<h3>@ViewBag.Title</h3>
+<h4>@ViewBag.Message</h4>
+<h5>@ViewBag.Html</h5>
+
+@*@foreach(string item in ViewBag.Html)
+{
+    <a href="@item">@item</a></br>
+}*@
+
+
+@*<asp:DataList ID="dlRSS" runat="server" width="100%">
+    <ItemTemplate>
+        <div class="RSSTitle"><asp:HyperLink ID="TitleLink" runat="server" Text='<%# Eval("title") %>' NavigateUrl='<%# Eval("link") %>'/></div>
+        <div class="RSSSubtitle"><asp:Label ID="SubtitleLabel" runat="server" Text='<%# Eval("description") %>' /></div>
+        <div class="RSSInfo">
+            posted on <asp:Label ID="DateRSSedLabel" runat="server" Text='<%# Eval("pubDate", "{0:d} @ {0:t}") %>' />
+        </div>
+    </ItemTemplate>
+</asp:DataList>*@
